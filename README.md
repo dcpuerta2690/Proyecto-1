@@ -1,2 +1,2 @@
 # Proyecto-1
-Bienvenida a mis repositorios 
+Bienvenidos a mi repositorio  
